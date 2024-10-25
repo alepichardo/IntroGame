@@ -730,4 +730,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/Lab5.unity
-  playerPath: /Users/alepichardo/Documents/GitHub/IntroGame/Lab5/Lab5
+  playerPath: /Users/alepichardo/Documents/GitHub/IntroGame/Lab5/build
